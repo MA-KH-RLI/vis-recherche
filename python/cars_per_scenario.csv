@@ -1,0 +1,16 @@
+Szenario,Fahrzeugklasse,BEV,PHEV
+NEP C 2035,Kleinwagen,3835,2376
+NEP C 2035,Mittelklasse,9589,5941
+NEP C 2035,Oberklasse,3174,1966
+Referenz,Kleinwagen,6867,4255
+Referenz,Mittelklasse,17169,10638
+Referenz,Oberklasse,5676,3514
+Mobilitätswende,Kleinwagen,10341,6405
+Mobilitätswende,Mittelklasse,25857,16021
+Mobilitätswende,Oberklasse,8551,5299
+Kleinwagen,Kleinwagen,25148,8385
+Kleinwagen,Mittelklasse,19790,6598
+Kleinwagen,Oberklasse,9418,3139
+Antriebswende,Kleinwagen,13070,8094
+Antriebswende,Mittelklasse,32671,20243
+Antriebswende,Oberklasse,10806,6692
